@@ -1,0 +1,110 @@
+O que é ROI?;O ROI (Retorno sobre Investimento) é a métrica que mostra quanto dinheiro você ganhou ou perdeu em relação ao que investiu. É essencial para saber se um negócio é lucrativo.;empreendedorismo
+O que é Escalabilidade?;Escalabilidade é a capacidade de uma empresa crescer muito em faturamento sem precisar aumentar seus custos na mesma proporção. É o segredo das grandes startups.;empreendedorismo
+O que é MVP?;O MVP (Mínimo Produto Viável) é a versão mais simples de um produto lançada para testar o mercado antes de gastar muito dinheiro no desenvolvimento completo.;empreendedorismo
+Como conseguir um Investidor Anjo?;Investidores anjo buscam boas ideias com alto potencial de crescimento. Você precisa de um pitch matador, um modelo de negócio claro e provas de que sua ideia funciona.;empreendedorismo
+O que é Churn Rate?;O Churn é a taxa de cancelamento de clientes. Se o seu Churn está alto, seu balde está furado e você está perdendo dinheiro mais rápido do que ganha.;empreendedorismo
+O que é Networking?;Networking é construir uma rede de contatos profissionais que podem gerar oportunidades, parcerias e troca de conhecimento valioso no mercado.;empreendedorismo
+Como funciona o Equity?;Equity é a participação societária em uma empresa. Quando você tem equity, você é dono de uma parte do negócio e lucra com a valorização dele.;empreendedorismo
+O que é Growth Hacking?;É uma estratégia de marketing focada em crescimento acelerado, usando experimentos, dados e tecnologia para encontrar formas baratas de atrair milhares de clientes.;empreendedorismo
+O que é Fluxo de Caixa?;É o movimento de entrada e saída de dinheiro da sua empresa. Um fluxo de caixa saudável garante que você tenha dinheiro para pagar as contas e investir no amanhã.;empreendedorismo
+O que é Valuation?;Valuation é o processo de calcular o valor de mercado de uma empresa, levando em conta faturamento, ativos, potencial de crescimento e marca.;empreendedorismo
+O que é B2B e B2C?;B2B (Business to Business) é quando uma empresa vende para outra empresa. B2C (Business to Consumer) é quando a empresa vende direto para o consumidor final.;empreendedorismo
+O que é Capital de Giro?;É o dinheiro necessário para manter a empresa funcionando no dia a dia, pagando fornecedores e funcionários antes de receber o dinheiro das vendas.;empreendedorismo
+O que é Lucro Líquido?;É o que sobra do faturamento total depois que você paga TODOS os custos, impostos e despesas. É o dinheiro real que vai para o bolso ou para o reinvestimento.;empreendedorismo
+Como funciona o Dropshipping?;É um modelo de vendas onde você não tem estoque. Você vende o produto, o fornecedor entrega direto para o cliente e você fica com o lucro da intermediação.;empreendedorismo
+O que é Branding?;Branding é a gestão da marca. Não é só um logo, é como as pessoas sentem e percebem sua empresa. Marcas fortes vendem mais caro.;empreendedorismo
+O que é Inteligência Artificial?;IA é a ciência de criar máquinas capazes de simular o raciocínio humano, aprendendo com dados para resolver problemas complexos e automatizar tarefas.;tecnologia
+O que é Machine Learning?;É o aprendizado de máquina, onde algoritmos analisam grandes volumes de dados para identificar padrões e tomar decisões sem serem programados explicitamente para cada passo.;tecnologia
+O que é Cloud Computing?;Computação em Nuvem permite usar servidores, bancos de dados e softwares pela internet, sem precisar ter o hardware físico pesado no seu local.;tecnologia
+Como funciona o Blockchain?;É um livro de registros digital, descentralizado e imutável. Ele garante a segurança de transações online sem a necessidade de um banco central.;tecnologia
+O que é Big Data?;Refere-se a conjuntos de dados gigantescos que precisam de ferramentas especiais para serem analisados. Quem domina os dados, domina o mercado.;tecnologia
+O que é uma API?;API é uma ponte que permite que dois sistemas diferentes conversem entre si. Por exemplo, o Bolt usa APIs para se conectar com outras ferramentas.;tecnologia
+O que é Cibersegurança?;É o conjunto de práticas e tecnologias usadas para proteger sistemas, redes e dados contra ataques digitais e acessos não autorizados.;tecnologia
+Como funciona o 5G?;O 5G é a quinta geração de redes móveis, entregando velocidades altíssimas e latência quase zero, permitindo que tudo esteja conectado em tempo real.;tecnologia
+O que é Internet das Coisas (IoT)?;IoT é a conexão de objetos físicos (como geladeiras, carros e sensores) à internet, permitindo que eles coletem e troquem dados entre si.;tecnologia
+O que é SaaS?;SaaS (Software as a Service) é um modelo onde você paga uma assinatura para usar um software pela internet, como o Netflix ou o próprio Streamlit.;tecnologia
+O que é Realidade Aumentada?;É a tecnologia que sobrepõe elementos digitais (como imagens e dados) ao mundo real através da câmera do celular ou óculos especiais.;tecnologia
+Como funciona a Criptografia?;Criptografia é a arte de codificar informações para que apenas quem tem a chave correta possa ler, garantindo a privacidade das mensagens e transações.;tecnologia
+O que é Front-end e Back-end?;Front-end é o que o usuário vê (o design do Bolt). Back-end é o que roda por trás (o processamento da IA e o banco de dados).;tecnologia
+O que é um Algoritmo?;Um algoritmo é uma sequência de passos lógicos para resolver um problema. O Bolt usa algoritmos de matemática para entender o que você escreve.;tecnologia
+Como funciona o Código Aberto (Open Source)?;São softwares onde o código fonte é público e qualquer pessoa pode ver, modificar e melhorar, como o Linux e muitas bibliotecas de IA.;tecnologia
+O que é Dividend Yield?;É a porcentagem de lucro que uma empresa paga aos seus acionistas. É como o aluguel que você recebe por ser dono de uma parte da empresa.;empreendedorismo
+O que é Selic?;A Selic é a taxa básica de juros do Brasil. Ela influencia quanto rendem seus investimentos e quanto custam os empréstimos.;empreendedorismo
+O que são FIIs?;Fundos de Investimento Imobiliário permitem que você invista em grandes prédios e shoppings e receba aluguéis mensais sem precisar comprar o imóvel inteiro.;empreendedorismo
+O que é CDB?;O Certificado de Depósito Bancário é quando você empresta dinheiro para o banco e ele te devolve com juros depois de um tempo.;empreendedorismo
+O que é Tesouro Direto?;É um programa onde você empresta dinheiro para o Governo Federal em troca de rentabilidade. É considerado o investimento mais seguro do país.;empreendedorismo
+O que é Day Trade?;É a compra e venda de ativos (como ações) no mesmo dia, tentando lucrar com as pequenas variações de preço do mercado.;empreendedorismo
+O que é Bear Market e Bull Market?;Bull Market é quando o mercado está subindo (o touro chifra para cima). Bear Market é quando está caindo (o urso ataca para baixo).;empreendedorismo
+O que é Diversificação?;É a estratégia de não colocar todos os ovos na mesma cesta, investindo em diferentes ativos para reduzir o risco de perdas.;empreendedorismo
+O que é Liquidez?;Liquidez é a facilidade com que você consegue transformar um investimento de volta em dinheiro vivo na sua conta.;empreendedorismo
+O que é Home Broker?;É a plataforma digital que permite que você compre e venda ações da Bolsa de Valores direto do seu computador ou celular.;empreendedorismo
+O que é IPO?;IPO é quando uma empresa abre seu capital e começa a vender suas ações na Bolsa pela primeira vez.;empreendedorismo
+O que é Hedge?;Hedge é uma proteção financeira. É fazer um investimento para reduzir o risco de oscilações de preço em outro ativo.;empreendedorismo
+O que é ETF?;É um fundo de investimento que replica um índice, como o Ibovespa. É uma forma barata de investir em várias empresas ao mesmo tempo.;empreendedorismo
+O que é Alavancagem?;É usar dinheiro emprestado para aumentar o volume de um investimento, multiplicando o potencial de lucro (e também o risco).;empreendedorismo
+O que é Profit Margin?;A margem de lucro indica qual porcentagem do preço de venda de um produto sobra como lucro real para a empresa.;empreendedorismo
+O que é Burn Rate?;É a velocidade com que uma startup gasta o seu capital inicial antes de começar a gerar lucro próprio.;empreendedorismo
+O que é Break Even?;É o ponto de equilíbrio, quando o faturamento da empresa se iguala às despesas. A partir daqui, a empresa começa a dar lucro.;empreendedorismo
+O que é Mercado de Opções?;É o mercado onde se negociam direitos de compra ou venda de um ativo por um preço fixo em uma data futura.;empreendedorismo
+O que é Debênture?;É um título de dívida onde você empresta dinheiro para uma empresa (não um banco) financiar seus projetos em troca de juros.;empreendedorismo
+O que é Profit Sharing?;É a participação nos lucros, um incentivo onde a empresa divide parte do que ganhou com seus colaboradores.;empreendedorismo
+O que é Lean Startup?;É uma metodologia focada em criar empresas eliminando desperdícios e aprendendo rápido o que o cliente realmente quer.;empreendedorismo
+O que é Matriz SWOT?;É uma ferramenta que analisa as Forças, Fraquezas, Oportunidades e Ameaças de um negócio.;empreendedorismo
+O que é um Oceano Azul?;É a estratégia de criar um mercado novo e sem concorrentes, em vez de lutar em mercados saturados (Oceanos Vermelhos).;empreendedorismo
+O que é Mindset Empreendedor?;É a mentalidade focada em solução de problemas, resiliência e busca constante por oportunidades de crescimento.;empreendedorismo
+O que é Product-Market Fit?;É quando você tem um produto que resolve um problema real de um grupo grande de pessoas que estão dispostas a pagar por ele.;empreendedorismo
+O que é Upsell?;É a técnica de oferecer um produto mais caro ou melhor no momento em que o cliente já decidiu comprar algo.;empreendedorismo
+O que é Cross-sell?;É oferecer produtos complementares ao que o cliente está comprando (ex: oferecer batata frita junto com o hambúrguer).;empreendedorismo
+O que é Customer Success?;É a área focada em garantir que o cliente alcance o resultado que desejava ao comprar seu produto, evitando que ele vá embora.;empreendedorismo
+O que é Copywriting?;É a arte de escrever textos persuasivos que convencem o leitor a tomar uma ação, como comprar ou se cadastrar.;empreendedorismo
+O que é Inbound Marketing?;É o marketing de atração, onde você cria conteúdo útil para que o cliente venha até sua empresa voluntariamente.;empreendedorismo
+O que é Outbound Marketing?;É o marketing tradicional de interrupção, como anúncios de TV, rádio ou banners que aparecem para quem não pediu.;empreendedorismo
+O que é Modelo de Assinatura?;É o modelo de negócio onde o cliente paga um valor recorrente (mensal/anual) para ter acesso contínuo a um serviço.;empreendedorismo
+O que é Franchising?;É o modelo de franquias, onde você paga para usar uma marca e um método de trabalho que já funcionam e têm sucesso.;empreendedorismo
+O que é Joint Venture?;É quando duas empresas se unem para criar um novo negócio ou projeto em conjunto, dividindo riscos e lucros.;empreendedorismo
+O que é Pitch Deck?;É a apresentação de slides usada para convencer investidores a colocarem dinheiro na sua ideia ou startup.;empreendedorismo
+O que é Customer Experience (CX)?;É a percepção total que o cliente tem da sua marca desde o primeiro contato até o pós-venda.;empreendedorismo
+O que é SEO?;Search Engine Optimization é o conjunto de técnicas para fazer seu site aparecer nos primeiros lugares do Google sem pagar anúncios.;empreendedorismo
+O que é Persona?;É a representação fictícia do seu cliente ideal, com nome, idade e problemas específicos, usada para guiar o marketing.;empreendedorismo
+O que é Funil de Vendas?;É o caminho que o cliente percorre desde que conhece sua marca até o momento em que ele fecha a compra.;empreendedorismo
+O que é CAC (Custo de Aquisição de Cliente)?;É quanto você gasta em marketing e vendas para conseguir cada novo cliente para o seu negócio.;empreendedorismo
+O que é Computação Quântica?;É um novo tipo de computação que usa leis da física quântica para processar dados milhões de vezes mais rápido que computadores atuais.;tecnologia
+O que é Metaverso?;É um ambiente virtual imersivo onde as pessoas podem interagir, trabalhar e negociar usando avatares e realidade virtual.;tecnologia
+O que é Web 3.0?;É a nova fase da internet focada em descentralização, onde os usuários são donos dos seus próprios dados usando blockchain.;tecnologia
+O que são NFTs?;Tokens Não Fundíveis são certificados digitais de propriedade que garantem que um arquivo digital é único e original.;tecnologia
+O que é Edge Computing?;É o processamento de dados feito perto de onde eles são gerados (como em sensores), reduzindo a lentidão e o uso de internet.;tecnologia
+O que é RPA (Robotic Process Automation)?;É o uso de softwares (robôs) para automatizar tarefas repetitivas que humanos faziam no computador.;tecnologia
+O que é Low-code e No-code?;São plataformas que permitem criar aplicativos e sites sem precisar escrever linhas complexas de código.;tecnologia
+O que é Criptoativo?;É qualquer ativo digital que utiliza criptografia para garantir sua segurança e existência, como moedas e tokens.;tecnologia
+O que é Smart Contract?;Contratos inteligentes são programas de computador que executam acordos automaticamente quando certas condições são cumpridas.;tecnologia
+O que é DeFi?;Finanças Descentralizadas são serviços financeiros (como empréstimos) que funcionam via blockchain sem precisar de bancos.;tecnologia
+O que é Biometria?;É a tecnologia de identificação baseada em características físicas únicas, como digitais, rosto ou íris dos olhos.;tecnologia
+O que é Realidade Virtual (VR)?;É uma tecnologia que usa óculos especiais para transportar o usuário para um ambiente 100% digital e imersivo.;tecnologia
+O que é Digital Twin?;Um Gêmeo Digital é uma cópia virtual idêntica de um objeto físico usada para simular testes e prever falhas.;tecnologia
+O que é Deep Learning?;É uma subárea da IA que usa redes neurais profundas para aprender padrões complexos, como traduzir idiomas ou dirigir carros.;tecnologia
+O que é Processamento de Linguagem Natural (PLN)?;É a tecnologia que permite que máquinas como o Bolt entendam, interpretem e gerem linguagem humana.;tecnologia
+O que é Fintech?;São empresas de tecnologia que inovam e competem com os bancos tradicionais, oferecendo serviços financeiros digitais.;tecnologia
+O que é Edtech?;São empresas que usam tecnologia para revolucionar a educação e o modo como as pessoas aprendem.;tecnologia
+O que é Healthtech?;São inovações tecnológicas focadas em melhorar a saúde, desde diagnósticos por IA até cirurgias robóticas.;tecnologia
+O que é Automação Residencial?;É o uso de tecnologia para controlar luzes, segurança e aparelhos de uma casa pelo celular ou voz.;tecnologia
+O que é Servidor?;É um computador potente dedicado a guardar arquivos e "servir" sites e aplicativos para outros computadores pela rede.;tecnologia
+Como posso investir meu dinheiro?;Para investir com inteligência, você deve primeiro criar uma reserva de emergência e depois diversificar entre Renda Fixa (CDB, Tesouro) e Renda Variável (Ações, FIIs), focando sempre no longo prazo.;investimentos
+O que é Renda Fixa?;É uma modalidade de investimento onde você conhece as regras de rendimento antes de investir. É mais segura e ideal para quem não quer correr grandes riscos.;investimentos
+O que é Renda Variável?;São investimentos onde o rendimento não é garantido e o preço dos ativos muda todo dia, como Ações e Criptomoedas. Oferece maior potencial de ganho, mas com mais risco.;investimentos
+O que é uma Corretora de Valores?;É a instituição financeira que faz a ponte entre você e a Bolsa de Valores. É por lá que você compra suas ações e títulos públicos.;investimentos
+O que é Juros Compostos?;É o efeito de juros sobre juros. No longo prazo, os juros compostos fazem o seu dinheiro crescer de forma exponencial, sendo o melhor amigo do investidor.;investimentos
+O que é Inflação?;A inflação é o aumento geral dos preços, o que faz o seu dinheiro perder poder de compra. Investir serve, acima de tudo, para proteger seu dinheiro da inflação.;investimentos
+O que é o Ibovespa?;É o principal índice da Bolsa brasileira, que mostra o desempenho médio das ações das maiores empresas do país.;investimentos
+O que é uma Carteira de Investimentos?;É o conjunto de todos os seus ativos financeiros. Uma boa carteira de elite deve ser equilibrada entre segurança e busca por lucro.;investimentos
+Como funciona o Tesouro IPCA?;É um título do governo que garante que seu dinheiro vai render sempre acima da inflação, protegendo seu poder de compra no futuro.;investimentos
+O que é Perfil de Investidor?;É a sua tolerância ao risco. Existem três perfis principais: Conservador (segurança), Moderado (equilíbrio) e Arrojado (focado em altos ganhos).;investimentos
+Como começar a empreender com pouco dinheiro?;Comece resolvendo um problema real, use o modelo de prestação de serviços ou dropshipping para não precisar de estoque e foque no marketing digital orgânico.;empreendedorismo
+O que é um infoproduto de sucesso?;É um produto digital (curso, ebook, mentoria) que ensina uma habilidade valiosa e resolve uma dor específica de um público disposto a pagar.;empreendedorismo
+O que é tráfego pago?;É o uso de anúncios (Google Ads, Meta Ads) para levar pessoas qualificadas até o seu site ou oferta de forma rápida e controlada.;empreendedorismo
+O que é tráfego orgânico?;É atrair pessoas para o seu negócio sem pagar por anúncios, usando apenas conteúdo de qualidade, SEO e redes sociais.;empreendedorismo
+O que é Social Proof (Prova Social)?;É o gatilho mental de mostrar que outras pessoas já compraram e aprovaram seu produto, gerando confiança para novos clientes.;empreendedorismo
+O que é Escassez?;É um gatilho de vendas que mostra que o produto é limitado, fazendo o cliente agir rápido para não perder a oportunidade.;empreendedorismo
+Como funciona o Machine Learning no Spotify?;O Spotify usa algoritmos que analisam o que você ouve para criar playlists personalizadas e recomendar músicas que você provavelmente vai gostar.;tecnologia
+O que é o processamento de linguagem natural no ChatGPT?;É a tecnologia que permite que a IA entenda o contexto das suas frases e responda de forma quase humana, como eu estou fazendo aqui.;tecnologia
+Como a IA ajuda na medicina?;A IA consegue analisar exames de imagem com precisão altíssima para detectar doenças precocemente e ajudar médicos em cirurgias complexas.;tecnologia
+O que é um Drone autônomo?;São veículos aéreos que usam sensores
