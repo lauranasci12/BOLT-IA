@@ -28,25 +28,25 @@ Como funciona a Criptografia?;Criptografia é a arte de codificar informações 
 O que é Front-end e Back-end?;Front-end é o que o usuário vê (o design do Bolt). Back-end é o que roda por trás (o processamento da IA e o banco de dados).;tecnologia
 O que é um Algoritmo?;Um algoritmo é uma sequência de passos lógicos para resolver um problema. O Bolt usa algoritmos de matemática para entender o que você escreve.;tecnologia
 Como funciona o Código Aberto (Open Source)?;São softwares onde o código fonte é público e qualquer pessoa pode ver, modificar e melhorar, como o Linux e muitas bibliotecas de IA.;tecnologia
-O que é Dividend Yield?;É a porcentagem de lucro que uma empresa paga aos seus acionistas. É como o aluguel que você recebe por ser dono de uma parte da empresa.;empreendedorismo
-O que é Selic?;A Selic é a taxa básica de juros do Brasil. Ela influencia quanto rendem seus investimentos e quanto custam os empréstimos.;empreendedorismo
-O que são FIIs?;Fundos de Investimento Imobiliário permitem que você invista em grandes prédios e shoppings e receba aluguéis mensais sem precisar comprar o imóvel inteiro.;empreendedorismo
-O que é CDB?;O Certificado de Depósito Bancário é quando você empresta dinheiro para o banco e ele te devolve com juros depois de um tempo.;empreendedorismo
-O que é Tesouro Direto?;É um programa onde você empresta dinheiro para o Governo Federal em troca de rentabilidade. É considerado o investimento mais seguro do país.;empreendedorismo
-O que é Day Trade?;É a compra e venda de ativos (como ações) no mesmo dia, tentando lucrar com as pequenas variações de preço do mercado.;empreendedorismo
-O que é Bear Market e Bull Market?;Bull Market é quando o mercado está subindo (o touro chifra para cima). Bear Market é quando está caindo (o urso ataca para baixo).;empreendedorismo
-O que é Diversificação?;É a estratégia de não colocar todos os ovos na mesma cesta, investindo em diferentes ativos para reduzir o risco de perdas.;empreendedorismo
-O que é Liquidez?;Liquidez é a facilidade com que você consegue transformar um investimento de volta em dinheiro vivo na sua conta.;empreendedorismo
-O que é Home Broker?;É a plataforma digital que permite que você compre e venda ações da Bolsa de Valores direto do seu computador ou celular.;empreendedorismo
-O que é IPO?;IPO é quando uma empresa abre seu capital e começa a vender suas ações na Bolsa pela primeira vez.;empreendedorismo
-O que é Hedge?;Hedge é uma proteção financeira. É fazer um investimento para reduzir o risco de oscilações de preço em outro ativo.;empreendedorismo
-O que é ETF?;É um fundo de investimento que replica um índice, como o Ibovespa. É uma forma barata de investir em várias empresas ao mesmo tempo.;empreendedorismo
-O que é Alavancagem?;É usar dinheiro emprestado para aumentar o volume de um investimento, multiplicando o potencial de lucro (e também o risco).;empreendedorismo
+O que é Dividend Yield?;É a porcentagem de lucro que uma empresa paga aos seus acionistas. É como o aluguel que você recebe por ser dono de uma parte da empresa.;investimentos
+O que é Selic?;A Selic é a taxa básica de juros do Brasil. Ela influencia quanto rendem seus investimentos e quanto custam os empréstimos.;investimentos
+O que são FIIs?;Fundos de Investimento Imobiliário permitem que você invista em grandes prédios e shoppings e receba aluguéis mensais sem precisar comprar o imóvel inteiro.;investimentos
+O que é CDB?;O Certificado de Depósito Bancário é quando você empresta dinheiro para o banco e ele te devolve com juros depois de um tempo.;investimentos
+O que é Tesouro Direto?;É um programa onde você empresta dinheiro para o Governo Federal em troca de rentabilidade. É considerado o investimento mais seguro do país.;investimentos
+O que é Day Trade?;É a compra e venda de ativos (como ações) no mesmo dia, tentando lucrar com as pequenas variações de preço do mercado.;investimentos
+O que é Bear Market e Bull Market?;Bull Market é quando o mercado está subindo (o touro chifra para cima). Bear Market é quando está caindo (o urso ataca para baixo).;investimentos
+O que é Diversificação?;É a estratégia de não colocar todos os ovos na mesma cesta, investindo em diferentes ativos para reduzir o risco de perdas.;investimentos
+O que é Liquidez?;Liquidez é a facilidade com que você consegue transformar um investimento de volta em dinheiro vivo na sua conta.;investimentos
+O que é Home Broker?;É a plataforma digital que permite que você compre e venda ações da Bolsa de Valores direto do seu computador ou celular.;investimentos
+O que é IPO?;IPO é quando uma empresa abre seu capital e começa a vender suas ações na Bolsa pela primeira vez.;investimentos
+O que é Hedge?;Hedge é uma proteção financeira. É fazer um investimento para reduzir o risco de oscilações de preço em outro ativo.;investimentos
+O que é ETF?;É um fundo de investimento que replica um índice, como o Ibovespa. É uma forma barata de investir em várias empresas ao mesmo tempo.;investimentos
+O que é Alavancagem?;É usar dinheiro emprestado para aumentar o volume de um investimento, multiplicando o potencial de lucro (e também o risco).;investimentos
 O que é Profit Margin?;A margem de lucro indica qual porcentagem do preço de venda de um produto sobra como lucro real para a empresa.;empreendedorismo
 O que é Burn Rate?;É a velocidade com que uma startup gasta o seu capital inicial antes de começar a gerar lucro próprio.;empreendedorismo
 O que é Break Even?;É o ponto de equilíbrio, quando o faturamento da empresa se iguala às despesas. A partir daqui, a empresa começa a dar lucro.;empreendedorismo
-O que é Mercado de Opções?;É o mercado onde se negociam direitos de compra ou venda de um ativo por um preço fixo em uma data futura.;empreendedorismo
-O que é Debênture?;É um título de dívida onde você empresta dinheiro para uma empresa (não um banco) financiar seus projetos em troca de juros.;empreendedorismo
+O que é Mercado de Opções?;É o mercado onde se negociam direitos de compra ou venda de um ativo por um preço fixo em uma data futura.;investimentos
+O que é Debênture?;É um título de dívida onde você empresta dinheiro para uma empresa (não um banco) financiar seus projetos em troca de juros.;investimentos
 O que é Profit Sharing?;É a participação nos lucros, um incentivo onde a empresa divide parte do que ganhou com seus colaboradores.;empreendedorismo
 O que é Lean Startup?;É uma metodologia focada em criar empresas eliminando desperdícios e aprendendo rápido o que o cliente realmente quer.;empreendedorismo
 O que é Matriz SWOT?;É uma ferramenta que analisa as Forças, Fraquezas, Oportunidades e Ameaças de um negócio.;empreendedorismo
@@ -87,27 +87,28 @@ O que é Fintech?;São empresas de tecnologia que inovam e competem com os banco
 O que é Edtech?;São empresas que usam tecnologia para revolucionar a educação e o modo como as pessoas aprendem.;tecnologia
 O que é Healthtech?;São inovações tecnológicas focadas em melhorar a saúde, desde diagnósticos por IA até cirurgias robóticas.;tecnologia
 O que é Automação Residencial?;É o uso de tecnologia para controlar luzes, segurança e aparelhos de uma casa pelo celular ou voz.;tecnologia
-O que é Servidor?;É um computador potente dedicado a guardar arquivos e "servir" sites e aplicativos para outros computadores pela rede.;tecnologia
-Como posso investir meu dinheiro?;Para investir com inteligência, você deve primeiro criar uma reserva de emergência e depois diversificar entre Renda Fixa (CDB, Tesouro) e Renda Variável (Ações, FIIs), focando sempre no longo prazo.;investimentos
-O que é Renda Fixa?;É uma modalidade de investimento onde você conhece as regras de rendimento antes de investir. É mais segura e ideal para quem não quer correr grandes riscos.;investimentos
-O que é Renda Variável?;São investimentos onde o rendimento não é garantido e o preço dos ativos muda todo dia, como Ações e Criptomoedas. Oferece maior potencial de ganho, mas com mais risco.;investimentos
-O que é uma Corretora de Valores?;É a instituição financeira que faz a ponte entre você e a Bolsa de Valores. É por lá que você compra suas ações e títulos públicos.;investimentos
-O que é Juros Compostos?;É o efeito de juros sobre juros. No longo prazo, os juros compostos fazem o seu dinheiro crescer de forma exponencial, sendo o melhor amigo do investidor.;investimentos
-O que é Inflação?;A inflação é o aumento geral dos preços, o que faz o seu dinheiro perder poder de compra. Investir serve, acima de tudo, para proteger seu dinheiro da inflação.;investimentos
+O que é Servidor?;É um computador potente dedicado a guardar arquivos e servir sites e aplicativos para outros computadores pela rede.;tecnologia
+Como posso investir meu dinheiro?;Para investir com inteligência, você deve primeiro criar uma reserva de emergência e depois diversificar entre Renda Fixa e Renda Variável.;investimentos
+O que é Renda Fixa?;É uma modalidade de investimento onde você conhece as regras de rendimento antes de investir. É mais segura e ideal para quem não quer riscos.;investimentos
+O que é Renda Variável?;São investimentos onde o rendimento não é garantido e o preço muda todo dia, como Ações e Criptomoedas. Oferece maior potencial de ganho.;investimentos
+O que é uma Corretora de Valores?;É a instituição financeira que faz a ponte entre você e a Bolsa de Valores. É por lá que você compra suas ações.;investimentos
+O que é Juros Compostos?;É o efeito de juros sobre juros. No longo prazo, fazem o seu dinheiro crescer de forma exponencial, sendo o melhor amigo do investidor.;investimentos
+O que é Inflação?;A inflação é o aumento geral dos preços, o que faz o seu dinheiro perder poder de compra. Investir serve para proteger seu dinheiro dela.;investimentos
 O que é o Ibovespa?;É o principal índice da Bolsa brasileira, que mostra o desempenho médio das ações das maiores empresas do país.;investimentos
-O que é uma Carteira de Investimentos?;É o conjunto de todos os seus ativos financeiros. Uma boa carteira de elite deve ser equilibrada entre segurança e busca por lucro.;investimentos
-Como funciona o Tesouro IPCA?;É um título do governo que garante que seu dinheiro vai render sempre acima da inflação, protegendo seu poder de compra no futuro.;investimentos
-O que é Perfil de Investidor?;É a sua tolerância ao risco. Existem três perfis principais: Conservador (segurança), Moderado (equilíbrio) e Arrojado (focado em altos ganhos).;investimentos
-Como começar a empreender com pouco dinheiro?;Comece resolvendo um problema real, use o modelo de prestação de serviços ou dropshipping para não precisar de estoque e foque no marketing digital orgânico.;empreendedorismo
-O que é um infoproduto de sucesso?;É um produto digital (curso, ebook, mentoria) que ensina uma habilidade valiosa e resolve uma dor específica de um público disposto a pagar.;empreendedorismo
-O que é tráfego pago?;É o uso de anúncios (Google Ads, Meta Ads) para levar pessoas qualificadas até o seu site ou oferta de forma rápida e controlada.;empreendedorismo
-O que é tráfego orgânico?;É atrair pessoas para o seu negócio sem pagar por anúncios, usando apenas conteúdo de qualidade, SEO e redes sociais.;empreendedorismo
-O que é Social Proof (Prova Social)?;É o gatilho mental de mostrar que outras pessoas já compraram e aprovaram seu produto, gerando confiança para novos clientes.;empreendedorismo
+O que é uma Carteira de Investimentos?;É o conjunto de todos os seus ativos financeiros. Uma boa carteira deve ser equilibrada entre segurança e busca por lucro.;investimentos
+Como funciona o Tesouro IPCA?;É um título do governo que garante que seu dinheiro vai render sempre acima da inflação, protegendo seu poder de compra.;investimentos
+O que é Perfil de Investidor?;É a sua tolerância ao risco. Existem três perfis principais: Conservador (segurança), Moderado (equilíbrio) e Arrojado (ganhos).;investimentos
+Como começar a empreender com pouco dinheiro?;Comece resolvendo um problema real, use o modelo de prestação de serviços ou dropshipping para não precisar de estoque inicial.;empreendedorismo
+O que é um infoproduto de sucesso?;É um produto digital que ensina uma habilidade valiosa e resolve uma dor específica de um público disposto a pagar.;empreendedorismo
+O que é tráfego pago?;É o uso de anúncios para levar pessoas qualificadas até o seu site ou oferta de forma rápida e controlada.;empreendedorismo
+O que é tráfego orgânico?;É atrair pessoas para o seu negócio sem pagar por anúncios, usando apenas conteúdo de qualidade e redes sociais.;empreendedorismo
+O que é Social Proof?;É o gatilho mental de mostrar que outras pessoas já compraram e aprovaram seu produto, gerando confiança para novos clientes.;empreendedorismo
 O que é Escassez?;É um gatilho de vendas que mostra que o produto é limitado, fazendo o cliente agir rápido para não perder a oportunidade.;empreendedorismo
 Como funciona o Machine Learning no Spotify?;O Spotify usa algoritmos que analisam o que você ouve para criar playlists personalizadas e recomendar músicas que você provavelmente vai gostar.;tecnologia
-O que é o processamento de linguagem natural no ChatGPT?;É a tecnologia que permite que a IA entenda o contexto das suas frases e responda de forma quase humana, como eu estou fazendo aqui.;tecnologia
-Como a IA ajuda na medicina?;A IA consegue analisar exames de imagem com precisão altíssima para detectar doenças precocemente e ajudar médicos em cirurgias complexas.;tecnologia
-O que é um Drone autônomo?;São veículos aéreos que usam sensoresO que é Pitch?;É uma apresentação rápida usada para convencer investidores, clientes ou parceiros sobre uma ideia.;empreendedorismo
+O que é o processamento de linguagem natural no ChatGPT?;É a tecnologia que permite que a IA entenda o contexto das suas frases e responda de forma quase humana.;tecnologia
+Como a IA ajuda na medicina?;A IA consegue analisar exames de imagem com precisão altíssima para detectar doenças precocemente e ajudar médicos em cirurgias.;tecnologia
+O que é um Drone autônomo?;São veículos aéreos que usam sensores e IA para voar e realizar tarefas sem a necessidade de um piloto humano constante.;tecnologia
+O que é Pitch?;É uma apresentação rápida usada para convencer investidores, clientes ou parceiros sobre uma ideia.;empreendedorismo
 O que é Benchmarking?;É estudar empresas de sucesso para aprender estratégias e melhorar seu próprio negócio.;empreendedorismo
 O que é Ticket Médio?;É o valor médio gasto por cliente em cada compra realizada.;empreendedorismo
 O que é Receita Recorrente?;É o faturamento previsível que entra todo mês através de assinaturas ou contratos.;empreendedorismo
@@ -138,7 +139,7 @@ O que é Cultura Organizacional?;É o conjunto de valores e comportamentos de um
 O que é Ticket Alto?;É um produto ou serviço vendido por valores elevados.;empreendedorismo
 O que é Mentoria?;É o acompanhamento de alguém experiente para acelerar aprendizado.;empreendedorismo
 O que é Copy?;É o texto criado para persuadir alguém a agir.;empreendedorismo
-O que é Landing Page?;É uma página focada em converter visitantes em leads ou compradores.;empreendedorismo
+O que é Landing Page?;É uma página focada em converter visitantes em compradores.;empreendedorismo
 O que é Lead?;É uma pessoa que demonstrou interesse no seu produto.;empreendedorismo
 O que é Lead Qualificado?;É um potencial cliente com maior chance de comprar.;empreendedorismo
 O que é Prospecção?;É a busca ativa por novos clientes.;empreendedorismo
@@ -215,7 +216,7 @@ O que é Ação Preferencial?;É uma ação com prioridade no recebimento de div
 O que é Volatilidade?;É a intensidade das oscilações de preço de um ativo.;investimentos
 O que é Rentabilidade?;É o retorno financeiro gerado por um investimento.;investimentos
 O que é Fundo Multimercado?;É um fundo que investe em diferentes tipos de ativos.;investimentos
-O que é Renda Mensal Passiva?;É o dinheiro recebido regularmente
+O que é Renda Mensal Passiva?;É o dinheiro recebido regularmente sem esforço direto.;investimentos
 O que é Juros?;Juros são o valor pago pelo uso de dinheiro emprestado ou ganho em investimentos.;investimentos
 O que é Inteligência Artificial?;É a tecnologia que faz máquinas aprenderem e tomarem decisões parecidas com humanos.;tecnologia
 O que é Lucro?;É o dinheiro que sobra depois de pagar todos os custos.;empreendedorismo
@@ -254,65 +255,3 @@ O que é Influenciador Digital?;É alguém que influencia pessoas através da in
 O que é Conteúdo Viral?;É um conteúdo que se espalha rapidamente online.;tecnologia
 O que é Streaming?;É assistir ou ouvir conteúdo sem baixar o arquivo.;tecnologia
 O que é Algoritmo?;É uma sequência lógica usada para resolver problemas.;tecnologia
-O que é Programação?;É escrever códigos para criar sistemas e aplicativos.;tecnologia
-O que é Código?;É o conjunto de comandos escritos por programadores.;tecnologia
-O que é Robô Virtual?;É um sistema automatizado que executa tarefas sozinho.;tecnologia
-O que é Automação?;É usar tecnologia para reduzir trabalho manual.;tecnologia
-O que é Chatbot?;É um robô programado para conversar com usuários.;tecnologia
-O que é Dados?;São informações usadas para análises e decisões.;tecnologia
-O que é Nuvem Digital?;É o armazenamento de arquivos pela internet.;tecnologia
-O que é Backup?;É uma cópia de segurança de arquivos.;tecnologia
-O que é Memória RAM?;É a memória usada temporariamente pelo computador.;tecnologia
-O que é Processador?;É a peça responsável pelos cálculos do computador.;tecnologia
-O que é Smartphone?;É um celular com funções avançadas de computador.;tecnologia
-O que é Wi‑Fi?;É a conexão sem fio com a internet.;tecnologia
-O que é 5G?;É uma internet móvel muito mais rápida.;tecnologia
-O que é Download?;É baixar arquivos da internet para o dispositivo.;tecnologia
-O que é Upload?;É enviar arquivos do dispositivo para a internet.;tecnologia
-O que é Link?;É um endereço que leva para outro conteúdo online.;tecnologia
-O que é QR Code?;É um código escaneável usado para acessar informações.;tecnologia
-O que é Software?;É um programa executado em computadores e celulares.;tecnologia
-O que é Hardware?;É a parte física dos dispositivos eletrônicos.;tecnologia
-O que é Bug?;É um erro dentro de um software.;tecnologia
-O que é Atualização?;É uma melhoria feita em sistemas e aplicativos.;tecnologia
-O que é Segurança Digital?;É a proteção contra golpes e invasões online.;tecnologia
-O que é Investidor?;É a pessoa que aplica dinheiro esperando retorno.;investimentos
-O que é Risco?;É a possibilidade de perder dinheiro em investimentos.;investimentos
-O que é Rentabilidade?;É o lucro gerado por um investimento.;investimentos
-O que é Renda Fixa?;É um investimento mais previsível e seguro.;investimentos
-O que é Renda Variável?;É um investimento com oscilações de preço.;investimentos
-O que é Dividendos?;É parte do lucro distribuída aos acionistas.;investimentos
-O que é Corretora?;É a empresa usada para investir na bolsa.;investimentos
-O que é Tesouro Direto?;É o investimento em títulos do governo.;investimentos
-O que é CDB?;É um investimento em que você empresta dinheiro ao banco.;investimentos
-O que é Selic?;É a taxa básica de juros do Brasil.;investimentos
-O que é Reserva de Emergência?;É um dinheiro guardado para imprevistos.;investimentos
-O que é Juros Compostos?;É ganhar juros sobre juros acumulados.;investimentos
-O que é Carteira de Investimentos?;É o conjunto dos seus investimentos.;investimentos
-O que é Diversificação?;É investir em diferentes ativos para reduzir riscos.;investimentos
-O que é Liquidez?;É a facilidade de transformar um ativo em dinheiro.;investimentos
-O que é Patrimônio?;É o conjunto de bens e investimentos de alguém.;investimentos
-O que é Meta Financeira?;É um objetivo relacionado ao dinheiro.;investimentos
-O que é Independência Financeira?;É viver sem depender de salário fixo.;investimentos
-O que é Empreendedor?;É quem cria ou administra negócios.;empreendedorismo
-O que é Liderança?;É a capacidade de guiar pessoas e equipes.;empreendedorismo
-O que é Networking?;É criar conexões profissionais importantes.;empreendedorismo
-O que é Produtividade?;É fazer mais em menos tempo.;empreendedorismo
-O que é Meta?;É um objetivo que alguém deseja alcançar.;empreendedorismo
-O que é Planejamento?;É organizar ações antes de executá‑las.;empreendedorismo
-O que é Estratégia?;É o plano usado para alcançar resultados.;empreendedorismo
-O que é Concorrência?;É a disputa entre empresas pelo mesmo público.;empreendedorismo
-O que é Marca?;É a identidade visual e reputação de uma empresa.;empreendedorismo
-O que é Logotipo?;É o símbolo visual de uma marca.;empreendedorismo
-O que é Público-Alvo?;É o grupo de pessoas que a empresa deseja atingir.;empreendedorismo
-O que é Venda?;É a troca de produtos ou serviços por dinheiro.;empreendedorismo
-O que é Atendimento ao Cliente?;É o suporte dado antes e depois da compra.;empreendedorismo
-O que é Franquia?;É o direito de usar uma marca já conhecida.;empreendedorismo
-O que é Home Office?;É trabalhar remotamente de casa.;empreendedorismo
-O que é Freelancer?;É o profissional que trabalha de forma independente.;empreendedorismo
-O que é Currículo?;É o documento com experiências e habilidades.;empreendedorismo
-O que é Entrevista de Emprego?;É a conversa usada para selecionar candidatos.;empreendedorismo
-O que é Feedback?;É a opinião dada para melhorar desempenho.;empreendedorismo
-O que é Inovação?;É criar algo novo ou melhorar o que já existe.;empreendedorismo
-O que é Tecnologia?;É o uso de conhecimento para criar soluções.;tecnologia
-O que é Futuro Digital?;É a tendência de cada vez mais atividades acontecerem online.;tecnologia
