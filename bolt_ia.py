@@ -15,9 +15,18 @@ st.markdown("""
     .user-msg { background-color: #003366; padding: 15px; border-radius: 15px; border-left: 5px solid #d4af37; margin-bottom: 15px; }
     .bolt-msg { background-color: #001f4d; padding: 15px; border-radius: 15px; border-right: 5px solid #ffd700; margin-bottom: 15px; color: #FFFFFF; }
     .categoria-tag { color: #ffd700; font-weight: bold; text-transform: uppercase; display: block; margin-bottom: 10px; border-bottom: 1px solid #d4af37; width: fit-content; }
-    .footer { position: fixed; left: 0; bottom: 10px; width: 100%; text-align: center; color: #d4af37; font-family: 'Georgia', serif; font-style: italic; font-size: 12px; opacity: 0.8; }
     
-    /* Estilo do Aviso de IA */
+    /* RODAPÉ CORRIGIDO: Removido o fixed para evitar sobreposição na imagem */
+    .footer { 
+        text-align: center; 
+        color: #d4af37; 
+        font-family: 'Georgia', serif; 
+        font-style: italic; 
+        font-size: 13px; 
+        padding: 20px;
+        opacity: 0.8;
+    }
+    
     .aviso-ia {
         background-color: rgba(212, 175, 55, 0.1);
         color: #d4af37;
@@ -82,11 +91,11 @@ if st.sidebar.button("Gravar Conhecimento"):
 # --- CONTEÚDO PRINCIPAL ---
 st.markdown("<h1 style='text-align: center; color: #d4af37;'>⚡ BOLT IA</h1>", unsafe_allow_html=True)
 
-# AVISO DE IA (O QUE VOCÊ PEDIU)
+# AVISO DE IA (CORRIGIDO: Removido o "eu")
 st.markdown("""
     <div class="aviso-ia">
         ⚠️ <b>Aviso:</b> O Bolt é uma Inteligência Artificial em constante aprendizado. 
-        Embora eu me esforce para ser preciso, posso cometer erros. Sempre verifique informações importantes.
+        Embora o sistema se esforce para ser preciso, erros podem ocorrer. Sempre verifique informações importantes.
     </div>
     """, unsafe_allow_html=True)
 
@@ -111,24 +120,19 @@ pergunta = st.text_input("Sua dúvida de hoje:", key="input_user")
 
 if st.button("Consultar 💸") and pergunta:
     st.session_state.messages.append({"role": "user", "content": pergunta})
-    
     pergunta_proc = pergunta.strip()
-    
     if df_bolt is not None:
         v = vectorizer.transform([pergunta_proc])
         sim = cosine_similarity(v, tfidf_matrix)
-        
         if sim.max() > 0.3:
             res = df_bolt.iloc[sim.argmax()]
             txt = f"<span class='categoria-tag'>Categoria: {res['categoria']}</span>{res['resposta']}"
         else:
-            txt = "🤖 Ainda não tenho esse conhecimento. Me ensine na barra lateral!"
+            txt = "🤖 O sistema ainda não possui esse conhecimento gravado. Me ensine na barra lateral!"
     else:
         txt = "⚠️ Erro ao acessar a base de conhecimento."
-        
     st.session_state.messages.append({"role": "bolt", "content": txt})
     st.rerun()
 
+# RODAPÉ ÚNICO E LIMPO
 st.markdown("<div class='footer'>By Miguel Generoso | O Bolt pode fornecer informações imprecisas.</div>", unsafe_allow_html=True)
-
-st.markdown("<div class='footer'>By Miguel Generoso</div>", unsafe_allow_html=True)
