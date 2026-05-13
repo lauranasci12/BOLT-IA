@@ -255,3 +255,223 @@ O que é Influenciador Digital?;É alguém que influencia pessoas através da in
 O que é Conteúdo Viral?;É um conteúdo que se espalha rapidamente online.;tecnologia
 O que é Streaming?;É assistir ou ouvir conteúdo sem baixar o arquivo.;tecnologia
 O que é Algoritmo?;É uma sequência lógica usada para resolver problemas.;tecnologia
+O que é um Empresário de Tecnologia e Investimentos?;É um profissional que funda ou gere empresas de inovação e utiliza capital para comprar ativos financeiros buscando lucro.;empreendedorismo
+O que é Currículo?;Documento que apresenta sua trajetória profissional, formação e competências para o mercado de trabalho.;empreendedorismo
+O que é LinkedIn?;Rede social focada em contatos profissionais, recrutamento e marketing pessoal.;empreendedorismo
+O que é Portfólio?;Coleção de trabalhos e projetos realizados que provam a habilidade prática de um profissional.;empreendedorismo
+O que é Soft Skills?;Habilidades comportamentais como liderança, comunicação e inteligência emocional.;empreendedorismo
+O que é Hard Skills?;Conhecimentos técnicos específicos, como programação, design ou fluência em idiomas.;empreendedorismo
+O que é Networking?;A prática de cultivar uma rede de contatos para abrir portas e trocar conhecimentos no mercado.;empreendedorismo
+O que é Venture Capital?;Investimento feito por fundos em empresas de tecnologia com alto potencial de crescimento.;investimentos
+O que é Anjo Investidor?;Pessoa física que investe capital próprio e mentoria em startups que estão começando.;investimentos
+O que é Diversificação de Carteira?;Estratégia de distribuir o dinheiro em diferentes tipos de ativos para reduzir riscos.;investimentos
+O que é Reserva de Emergência?;Montante guardado em ativos de alta liquidez para cobrir imprevistos financeiros.;investimentos
+O que é Renda Fixa?;Investimentos onde as regras de rendimento são definidas no início, como Tesouro Direto e CDB.;investimentos
+O que é Renda Variável?;Investimentos onde o retorno não é garantido e o preço oscila, como Ações e Criptomoedas.;investimentos
+O que é Dividendos?;Parte do lucro de uma empresa que é distribuída para quem possui suas ações.;investimentos
+O que é Home Office?;Modelo de trabalho realizado de forma remota, fora das dependências físicas da empresa.;empreendedorismo
+O que é PJ (Pessoa Jurídica)?;Modelo de trabalho onde o profissional presta serviços como empresa, sem vínculo CLT.;empreendedorismo
+O que é CLT?;Regime de trabalho baseado na Consolidação das Leis do Trabalho, com direitos como férias e 13º.;empreendedorismo
+O que é Freelancer?;Profissional autônomo que executa projetos específicos para diferentes clientes.;empreendedorismo
+O que é Mentoria?;Processo onde alguém experiente orienta o desenvolvimento de uma pessoa menos experiente.;empreendedorismo
+O que é Recrutamento e Seleção?;Processo de atrair e escolher os melhores talentos para ocupar vagas em uma empresa.;empreendedorismo
+O que é Pro-labore?;É o salário que o sócio ou dono da empresa recebe pelo seu trabalho administrativo no negócio.;empreendedorismo
+O que é Lucro Líquido?;É o que sobra do faturamento total após subtrair todos os custos, despesas e impostos.;investimentos
+O que é Lucro Bruto?;É a diferença entre a receita de vendas e os custos diretos para produzir o que foi vendido.;empreendedorismo
+O que é Capital de Giro?;Dinheiro necessário para manter a empresa funcionando e pagar as contas antes de receber das vendas.;empreendedorismo
+O que é Ticket Médio?;É o valor médio que cada cliente gasta em uma compra no seu estabelecimento ou site.;empreendedorismo
+O que é Markup?;Índice aplicado sobre o custo de um produto para definir o seu preço de venda e garantir o lucro.;empreendedorismo
+O que é Ponto de Equilíbrio?;Também chamado de Break-even, é quando o faturamento da empresa é exatamente igual aos seus custos.;empreendedorismo
+O que é Faturamento?;É a soma de todos os valores que entraram na empresa através das vendas, antes de tirar custos.;empreendedorismo
+O que é Fluxo de Caixa?;Registro das entradas e saídas de dinheiro da empresa em um período específico.;empreendedorismo
+O que é Balanço Patrimonial?;Relatório financeiro que mostra a situação dos bens, direitos e obrigações de uma empresa.;investimentos
+O que é Regime de Caixa?;Forma de contabilidade que registra as transações no momento exato em que o dinheiro entra ou sai.;empreendedorismo
+O que é Regime de Competência?;Registro contábil feito na data em que a venda ocorreu, independente de quando o dinheiro cairá.;empreendedorismo
+O que é Simples Nacional?;Regime tributário facilitado para micro e pequenas empresas no Brasil.;empreendedorismo
+O que é ISS?;Imposto Sobre Serviços, cobrado pelos municípios sobre empresas que prestam serviços.;empreendedorismo
+O que é ICMS?;Imposto sobre Circulação de Mercadorias e Serviços, cobrado sobre a venda de produtos físicos.;empreendedorismo
+O que é Nota Fiscal?;Documento oficial que registra a venda de um produto ou serviço e serve para o recolhimento de impostos.;empreendedorismo
+O que é Orçamento?;Documento que prevê as receitas e despesas futuras para planejar o uso do dinheiro.;empreendedorismo
+O que é Inadimplência?;É quando um cliente não paga uma conta ou dívida no prazo combinado.;investimentos
+O que é Amortização?;Pagamento gradual de uma dívida através de parcelas periódicas ao longo do tempo.;investimentos
+O que é Carência?;Período inicial de um contrato ou empréstimo onde o cliente ainda não precisa pagar as parcelas.;investimentos
+O que é Juros de Mora?;Multa cobrada pelo atraso no pagamento de um título ou boleto.;investimentos
+O que é Spread Bancário?;Diferença entre a taxa que o banco paga ao captar dinheiro e a que ele cobra ao emprestar.;investimentos
+O que é Capital Social?;Valor total investido pelos sócios para dar início às atividades de uma empresa.;empreendedorismo
+O que é Dividend Yield?;Indicador que mostra o rendimento de uma ação apenas com o pagamento de dividendos.;investimentos
+O que é Ação Ordinária (ON)?;Tipo de ação que dá direito a voto nas assembleias de decisão da empresa.;investimentos
+O que é Ação Preferencial (PN)?;Tipo de ação que dá preferência no recebimento de dividendos, mas geralmente não dá direito a voto.;investimentos
+O que é Home Broker?;Plataforma online que permite ao investidor negociar ativos na Bolsa de Valores.;investimentos
+O que é Custódia?;Serviço de guarda e segurança dos ativos financeiros realizado por uma instituição.;investimentos
+O que é Nota de Corretagem?;Documento que comprova as operações de compra e venda realizadas na Bolsa de Valores.;investimentos
+O que é Aluguel de Ações?;Operação onde o dono de uma ação a empresta para outro investidor em troca de uma taxa fixa.;investimentos
+O que é Short Selling?;Estratégia de vender uma ação que você não tem, esperando que o preço caia para recomprá-la mais barato.;investimentos
+O que é Long & Short?;Operação casada onde o investidor compra uma ação e vende outra simultaneamente.;investimentos
+O que é Derivativos?;Contratos cujo valor financeiro depende do valor de outro ativo básico.;investimentos
+O que é Mercado de Opções?;Onde se negociam direitos de compra ou venda de um ativo por um preço fixo em data futura.;investimentos
+O que é Mercado Futuro?;Contratos de compra ou venda de ativos para uma data futura por um preço acordado hoje.;investimentos
+O que é Alavancagem?;Uso de recursos externos para aumentar o volume de uma operação e potencializar ganhos.;investimentos
+O que é Benchmark?;Referência de mercado usada para comparar a rentabilidade de um investimento.;investimentos
+O que é Risco de Crédito?;A chance de uma empresa ou governo não pagar o que deve aos investidores.;investimentos
+O que é Risco de Mercado?;Possibilidade de perda devido a variações nos preços de ações, câmbio ou juros.;investimentos
+O que é Risco de Liquidez?;Dificuldade de vender um ativo rapidamente por um preço justo para transformá-lo em dinheiro.;investimentos
+O que é Fundo de Renda Fixa?;Fundo que investe a maior parte do patrimônio em títulos de dívida pública ou privada.;investimentos
+O que é Fundo Multimercado?;Fundo que tem liberdade para investir em ações, câmbio, juros e outros ativos ao mesmo tempo.;investimentos
+O que é Fundo de Ações?;Fundo que deve investir pelo menos 67 por cento do seu patrimônio em ações da Bolsa.;investimentos
+O que é Come-cotas?;Antecipação semestral do Imposto de Renda cobrada sobre alguns fundos de investimento.;investimentos
+O que é IOF?;Imposto sobre Operações Financeiras, cobrado em resgates de investimentos feitos em menos de 30 dias.;investimentos
+O que é Grafo?;Estrutura de dados que representa conexões entre objetos, muito usada em redes sociais e mapas.;tecnologia
+O que é Algoritmo de Busca?;Sequência lógica usada para encontrar uma informação específica dentro de um grande conjunto de dados.;tecnologia
+O que é Estrutura de Dados?;Forma organizada de armazenar e manipular dados em um computador, como listas e pilhas.;tecnologia
+O que é Programação Orientada a Objetos?;Estilo de programação focado em organizar o código através de classes e objetos.;tecnologia
+O que é Compilador?;Programa que traduz o código escrito pelo humano para uma linguagem que o computador entende.;tecnologia
+O que é Interpretador?;Programa que executa o código linha por linha, sem precisar traduzir o arquivo inteiro de uma vez.;tecnologia
+O que é Variável?;Espaço na memória do computador usado para guardar uma informação que pode mudar.;tecnologia
+O que é Função?;Bloco de código que executa uma tarefa específica e pode ser reutilizado várias vezes.;tecnologia
+O que é Recursividade?;Quando uma função chama a ela mesma para resolver um problema de forma repetida.;tecnologia
+O que é Loop?;Estrutura de repetição que executa um bloco de código várias vezes enquanto uma condição for verdadeira.;tecnologia
+O que é IDE?;Ambiente de Desenvolvimento Integrado, software usado por programadores para escrever e testar códigos.;tecnologia
+O que é Framework?;Conjunto de ferramentas e bibliotecas prontas que aceleram o desenvolvimento de sistemas.;tecnologia
+O que é Biblioteca (Library)?;Conjunto de códigos prontos que resolvem problemas comuns para o programador não precisar refazer do zero.;tecnologia
+O que é Git?;Sistema de controle de versão que registra todas as alterações feitas no código de um projeto.;tecnologia
+O que é Commit?;Ação de salvar as alterações feitas no código dentro do sistema de controle de versão.;tecnologia
+O que é Branch?;Ramificação de um projeto no Git, usada para desenvolver novas funções sem estragar a versão principal.;tecnologia
+O que é Pull Request?;Pedido feito para unir as alterações de uma branch secundária à versão oficial do projeto.;tecnologia
+O que é Bug?;Erro no código que faz com que o software apresente comportamentos inesperados ou falhas.;tecnologia
+O que é Debugar?;Processo de encontrar e corrigir erros (bugs) dentro de um código ou sistema.;tecnologia
+O que é Refatoração?;Processo de melhorar a estrutura interna de um código sem mudar o que ele faz para o usuário.;tecnologia
+O que é Script?;Arquivo de texto com comandos que são executados de forma sequencial por um interpretador.;tecnologia
+O que é Servidor?;Computador potente que fornece serviços, dados ou arquivos para outros computadores em uma rede.;tecnologia
+O que é Endereço IP?;Identificação numérica única de cada dispositivo conectado à internet.;tecnologia
+O que é DNS?;Sistema que traduz nomes de domínios (como google.com) para endereços IP numéricos.;tecnologia
+O que é Protocolo HTTP?;Regra básica de comunicação usada para transferir dados e carregar páginas na internet.;tecnologia
+O que é Protocolo HTTPS?;Versão segura do HTTP que usa criptografia para proteger os dados trocados entre navegador e site.;tecnologia
+O que é SQL?;Linguagem usada para consultar e gerenciar dados dentro de bancos de dados relacionais.;tecnologia
+O que é NoSQL?;Bancos de dados que não usam o modelo tradicional de tabelas, ideais para grandes volumes de dados variados.;tecnologia
+O que é Docker?;Plataforma que permite criar e rodar aplicativos dentro de recipientes isolados chamados containers.;tecnologia
+O que é Container?;Ambiente isolado que contém tudo o que um software precisa para rodar em qualquer computador.;tecnologia
+O que é Kubernetes?;Sistema usado para gerenciar e automatizar a operação de grandes quantidades de containers.;tecnologia
+O que é Latência?;Tempo de atraso que uma informação leva para ir de um ponto a outro na rede.;tecnologia
+O que é Largura de Banda?;Capacidade máxima de transmissão de dados de uma conexão de internet em um determinado tempo.;tecnologia
+O que é Virtualização?;Tecnologia que permite rodar vários sistemas operacionais independentes em um único hardware físico.;tecnologia
+O que é Firewall?;Barreira de segurança que monitora e controla o tráfego de rede para bloquear acessos suspeitos.;tecnologia
+O que é Criptografia Simétrica?;Usa a mesma chave tanto para codificar quanto para decodificar uma informação.;tecnologia
+O que é Criptografia Assimétrica?;Usa um par de chaves (pública e privada) para garantir que apenas o destinatário correto leia a mensagem.;tecnologia
+O que é Hash?;Algoritmo que transforma qualquer dado em uma sequência única de letras e números para verificação de segurança.;tecnologia
+O que é Autenticação de Dois Fatores (2FA)?;Camada extra de segurança que exige um segundo código além da senha para acessar uma conta.;tecnologia
+O que é VPN?;Rede Privada Virtual que cria um túnel seguro para navegar na internet de forma anônima e protegida.;tecnologia
+O que é Cookies?;Pequenos arquivos salvos no navegador que guardam preferências e informações do usuário em sites.;tecnologia
+O que é Cache?;Armazenamento temporário de dados para que eles sejam acessados mais rápido na próxima vez.;tecnologia
+O que é SEO Local?;Estratégias para fazer sua empresa aparecer nos resultados de busca de pessoas que estão fisicamente perto dela.;empreendedorismo
+O que é Link Building?;Prática de conseguir que outros sites relevantes apontem links para o seu, aumentando sua autoridade no Google.;tecnologia
+O que é CTR?;Taxa de Cliques, mostra a porcentagem de pessoas que viram seu anúncio ou link e clicaram nele.;empreendedorismo
+O que é CPC?;Custo por Clique, valor que você paga cada vez que alguém clica no seu anúncio patrocinado.;empreendedorismo
+O que é CPM?;Custo por Mil Impressões, valor pago para que seu anúncio seja exibido mil vezes na tela das pessoas.;empreendedorismo
+O que é Remarketing?;Técnica de mostrar anúncios para pessoas que já visitaram seu site mas não finalizaram a compra.;empreendedorismo
+O que é Teste A/B?;Comparação de duas versões de uma página ou e-mail para ver qual gera mais cliques ou vendas.;empreendedorismo
+O que é Landing Page?;Página de destino focada em converter o visitante em cliente ou capturar seus dados de contato.;empreendedorismo
+O que é Upsell?;Oferecer uma versão melhor ou mais cara do produto no momento em que o cliente já decidiu comprar.;empreendedorismo
+O que é Cross-sell?;Sugerir produtos complementares ao que o cliente está comprando, como uma capa para o celular.;empreendedorismo
+O que é Copywriting?;Técnica de escrita focada em persuadir o leitor a realizar uma ação específica, como comprar.;empreendedorismo
+O que é Social Proof?;Uso de depoimentos e números de clientes satisfeitos para gerar confiança em novos compradores.;empreendedorismo
+O que é Gatilho de Escassez?;Estratégia de vendas que avisa que o produto está acabando para acelerar a decisão de compra.;empreendedorismo
+O que é Cartão de Crédito?;É um meio de pagamento que permite comprar bens ou serviços agora e pagar depois, dentro de um limite pré-aprovado pelo banco.;finanças
+O que é Cartão de Débito?;É um cartão vinculado à sua conta corrente que desconta o valor da compra imediatamente do seu saldo disponível.;finanças
+O que é Saque?;É o ato de retirar dinheiro em espécie de uma conta bancária através de um caixa eletrônico ou guichê.;finanças
+O que é Saldo?;É o valor total de dinheiro disponível em uma conta bancária em um determinado momento.;finanças
+O que é Extrato?;É um documento que mostra todo o histórico de movimentações, como entradas e saídas, de uma conta.;finanças
+O que é Empréstimo?;É quando o banco fornece uma quantia em dinheiro que deve ser devolvida com acréscimo de juros em um prazo definido.;finanças
+O que é Financiamento?;Tipo de empréstimo destinado a um fim específico, como a compra de um imóvel ou veículo.;finanças
+O que é Cheque Especial?;É um limite de crédito pré-aprovado que o banco oferece quando o saldo da conta corrente chega a zero.;finanças
+O que é TED?;Transferência Eletrônica Disponível que permite enviar dinheiro entre bancos diferentes no mesmo dia.;finanças
+O que é DOC?;Documento de Ordem de Crédito, uma forma de transferência bancária que cai na conta do destino no dia útil seguinte.;finanças
+O que é Pix?;Sistema de pagamentos instantâneos criado pelo Banco Central que permite transferências 24 horas por dia.;finanças
+O que é Cartão Pré-pago?;É um cartão onde você carrega um valor específico antes de usar, ideal para controle de gastos.;finanças
+O que é Anuidade?;Taxa anual cobrada pelos bancos pela manutenção e serviços de alguns cartões de crédito.;finanças
+O que é Estorno?;É a devolução de um valor pago em uma compra, geralmente quando há desistência ou erro na transação.;finanças
+O que é IOF?;Imposto sobre Operações Financeiras, cobrado pelo governo em compras internacionais, empréstimos e seguros.;finanças
+O que é Cientista de Dados?;Profissional que usa estatística e programação para analisar grandes volumes de dados e gerar insights para empresas.;tecnologia
+O que é Engenheiro de Dados?;Responsável por construir e manter as infraestruturas que permitem que os dados fluam e fiquem organizados.;tecnologia
+O que é Analista de Dados?;Profissional que interpreta dados coletados para ajudar na tomada de decisões estratégicas de um negócio.;tecnologia
+O que é Desenvolvedor Mobile?;Programador especializado em criar aplicativos para dispositivos móveis, como celulares e tablets.;tecnologia
+O que é Designer de UX?;O User Experience Designer foca em tornar a experiência do usuário em um site ou app a melhor possível.;tecnologia
+O que é Designer de UI?;O User Interface Designer é responsável pela parte visual e estética da interface de um sistema.;tecnologia
+O que é Arquiteto de Software?;Profissional que decide as estruturas de alto nível e os padrões técnicos que um sistema deve seguir.;tecnologia
+O que é DevOps?;Profissional que une o desenvolvimento de software com a operação da infraestrutura para acelerar entregas.;tecnologia
+O que é Product Owner (PO)?;Pessoa responsável por definir quais funcionalidades são prioritárias em um projeto de tecnologia.;tecnologia
+O que é Scrum Master?;Facilitador que garante que a equipe de desenvolvimento siga as práticas de metodologias ágeis.;tecnologia
+O que é Analista de QA?;O Quality Assurance é o profissional que testa o software para garantir que ele não tenha bugs antes do lançamento.;tecnologia
+O que é Especialista em Cloud?;Profissional que gerencia e configura serviços em servidores nas nuvens, como AWS ou Azure.;tecnologia
+O que é Analista de Suporte?;Responsável por resolver problemas técnicos e auxiliar usuários no uso de sistemas e hardware.;tecnologia
+O que é Ciência da Computação?;Curso superior focado nos fundamentos teóricos da computação, algoritmos e criação de software.;tecnologia
+O que é Engenharia de Software?;Área focada na aplicação de processos organizados para criar, manter e testar softwares de larga escala.;tecnologia
+O que é Sistemas de Informação?;Curso que une tecnologia e administração, focado em como os sistemas resolvem problemas de empresas.;tecnologia
+O que é Análise e Desenvolvimento de Sistemas?;Curso tecnológico focado na parte prática de programação e criação de sistemas digitais.;tecnologia
+O que é Defesa Cibernética?;Área focada em proteger redes e dados contra ataques de hackers e invasões maliciosas.;tecnologia
+O que é Redes de Computadores?;Curso focado na infraestrutura física e lógica que permite a comunicação entre dispositivos.;tecnologia
+O que é Engenharia de Computação?;Curso que une eletrônica e computação para desenvolver tanto hardware quanto software.;tecnologia
+O que é Swing Trade?;Estratégia de investimento onde o ativo é mantido por alguns dias ou semanas para lucrar com variações.;investimentos
+O que é Buy and Hold?;Estratégia de longo prazo que consiste em comprar ativos e mantê-los por muitos anos.;investimentos
+O que é Value Investing?;Filosofia de investimento focada em comprar ações que estão abaixo do seu valor real intrínseco.;investimentos
+O que é Growth Investing?;Investimento focado em empresas que têm alto potencial de crescimento, mesmo que o preço esteja alto.;investimentos
+O que é Day Trade?;Prática de comprar e vender o mesmo ativo no mesmo dia para lucrar com a oscilação rápida.;investimentos
+O que é Position Trade?;Estratégia de longo prazo onde o investidor mantém a posição por meses ou anos baseado em tendências.;investimentos
+O que é Análise Técnica?;Estudo dos gráficos de preços e volumes passados para tentar prever o movimento futuro dos ativos.;investimentos
+O que é Análise Fundamentalista?;Estudo da saúde financeira, balanços e mercado de uma empresa para definir seu valor real.;investimentos
+O que é Small Caps?;Ações de empresas com menor valor de mercado, que costumam ter alto potencial de crescimento e maior risco.;investimentos
+O que é Blue Chips?;Ações de grandes empresas, líderes de mercado e com histórico de estabilidade e segurança.;investimentos
+O que é Mid Caps?;Ações de empresas de médio porte que já cresceram, mas ainda têm espaço para expansão.;investimentos
+O que é BDR?;Brazilian Depositary Receipts são certificados que permitem investir em empresas estrangeiras na bolsa brasileira.;investimentos
+O que é ETF?;Exchange Traded Fund é um fundo que replica o desempenho de um índice, como o Ibovespa, e é negociado na bolsa.;investimentos
+O que é FII de Papel?;Fundo Imobiliário que investe em títulos de dívida do setor, como o CRI e o LCI.;investimentos
+O que é FII de Tijolo?;Fundo Imobiliário que investe na compra de imóveis físicos para lucrar com aluguéis.;investimentos
+O que é FII de Logística?;Fundo focado em galpões para armazenamento e distribuição de mercadorias de grandes empresas.;investimentos
+O que é FII de Shopping?;Fundo Imobiliário que detém participações em grandes centros de compras.;investimentos
+O que é FII de Lajes Corporativas?;Fundo que investe em prédios de escritórios de alto padrão para aluguel.;investimentos
+O que é Dividendos?;Parte do lucro líquido de uma empresa que é distribuída em dinheiro para os acionistas.;investimentos
+O que é JCP?;Juros sobre Capital Próprio é uma forma de a empresa distribuir lucro aos sócios com benefícios fiscais.;investimentos
+O que é Bonificação?;Quando uma empresa entrega novas ações gratuitamente para seus acionistas atuais.;investimentos
+O que é Desdobramento (Split)?;Aumento do número de ações de uma empresa sem alterar o valor total investido, para torná-las mais baratas.;investimentos
+O que é Grupamento (Inplit)?;Redução do número de ações para aumentar o preço unitário de cada uma no mercado.;investimentos
+O que é Subscrição?;Direito dado ao acionista de comprar novas ações por um preço preferencial antes do mercado.;investimentos
+O que é Tag Along?;Garantia de que o acionista minoritário possa vender suas ações caso a empresa mude de dono.;investimentos
+O que é Free Float?;Porcentagem de ações de uma empresa que estão disponíveis para negociação no mercado.;investimentos
+O que é Governança Corporativa?;Conjunto de regras e processos que garantem transparência e ética na gestão de uma empresa.;investimentos
+O que é Novo Mercado?;Segmento da Bolsa de Valores brasileira com os mais altos padrões de governança corporativa.;investimentos
+O que é Circuit Breaker?;Mecanismo que paralisa as negociações na Bolsa quando há uma queda brusca e repentina nos preços.;investimentos
+O que é After Market?;Período de negociação na Bolsa de Valores que ocorre após o horário de fechamento oficial.;investimentos
+O que é Margem de Segurança?;Diferença entre o preço atual de uma ação e o seu valor justo calculado pelo investidor.;investimentos
+O que é Price Action?;Leitura direta do movimento do preço no gráfico, sem o uso de indicadores complexos.;investimentos
+O que é Candle?;Representação gráfica do preço de um ativo em um período, mostrando abertura, fechamento, máxima e mínima.;investimentos
+O que é Suporte?;Nível de preço no gráfico onde a demanda é forte o suficiente para impedir que o ativo caia mais.;investimentos
+O que é Resistência?;Nível de preço onde a oferta é grande e costuma impedir que o ativo continue subindo.;investimentos
+O que é Tendência de Alta?;Quando o preço de um ativo faz topos e fundos cada vez mais altos no gráfico.;investimentos
+O que é Tendência de Baixa?;Quando o preço de um ativo faz topos e fundos cada vez mais baixos no gráfico.;investimentos
+O que é Lateralização?;Momento em que o preço de um ativo fica oscilando em uma faixa estreita, sem direção definida.;investimentos
+O que é Volume Financeiro?;Quantidade total de dinheiro que foi negociada em um ativo durante um período.;investimentos
+O que é Volatilidade?;Medida de quanto o preço de um ativo oscila em um determinado intervalo de tempo.;investimentos
+O que é Correlação?;Relação entre dois ativos que tendem a se mover na mesma direção ou em direções opostas.;investimentos
+O que é Renda Fixa Prefixada?;Investimento onde você sabe exatamente quanto vai receber no final no momento da compra.;investimentos
+O que é Renda Fixa Pós-fixada?;Rendimento que acompanha um indicador, como a taxa Selic ou o CDI.;investimentos
+O que é Renda Fixa Híbrida?;Rendimento que une uma taxa fixa mais a variação da inflação (IPCA).;investimentos
+O que é Marcação a Mercado?;Ajuste diário do valor de um título de renda fixa caso ele fosse vendido hoje antes do prazo.;investimentos
+O que é FGC?;Fundo Garante de Crédito que protege o investidor em até 250 mil reais caso o banco quebre.;investimentos
+O que é Debêntures?;Títulos de dívida emitidos por empresas para captar recursos para seus projetos.;investimentos
+O que é CRI e CRA?;Certificados de Recebíveis do agronegócio ou imobiliário, isentos de Imposto de Renda para pessoa física.;investimentos
+O que é COE?;Certificado de Operações Estruturadas que combina elementos de renda fixa e variável.;investimentos
+O que é Previdência Privada?;Investimento focado na aposentadoria, com benefícios tributários como o PGBL e o VGBL.;investimentos
+O que é Come-cotas?;Antecipação de Imposto de Renda que ocorre semestralmente em alguns fundos de investimento.;investimentos
+O que é Come-cotas?;Imposto de Renda cobrado automaticamente sobre o lucro de alguns fundos de investimento a cada seis meses.;investimentos
+O que é Taxa de Administração?;Valor pago aos gestores de um fundo de investimento para cobrir custos de operação.;investimentos
+O que é Taxa de Performance?;Prêmio pago ao gestor de um fundo quando ele supera um determinado índice de referência.;investimentos
+O que é Eating your own dog food?;Quando uma empresa de tecnologia usa os seus próprios produtos para testar sua qualidade.;tecnologia
+O que é Scalability?;Capacidade de um sistema ou software suportar um aumento de demanda sem perder performance.;tecnologia
+O que é High Availability?;Sistemas projetados para estarem disponíveis e funcionando quase 100 por cento do tempo.;tecnologia
+O que é Disaster Recovery?;Plano de ação para recuperar dados e sistemas após uma falha catastrófica ou ataque.;tecnologia
+O que é Autenticação?;Processo de verificar a identidade de um usuário em um sistema através de senhas ou biometria.;tecnologia
+O que é Autorização?;Processo de definir o que um usuário autenticado tem permissão para acessar ou fazer.;tecnologia
+O que é Criptografia de Ponta a Ponta?;Garante que apenas as pessoas envolvidas na comunicação consigam ler o conteúdo das mensagens.;tecnologia
+O que é Ransomware?;Tipo de vírus que sequestra os arquivos de um computador e exige resgate em dinheiro.;tecnologia
+O que é Malware?;Qualquer software malicioso criado para causar danos ou roubar informações de um dispositivo.;tecnologia
+O que é Firewall?;Barreira de segurança que controla o tráfego de entrada e saída de uma rede de computadores.;tecnologia
+O que é Pentest?;Teste de intrusão onde profissionais tentam invadir um sistema para encontrar e corrigir falhas de segurança.;tecnologia
