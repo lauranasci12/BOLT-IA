@@ -88,7 +88,7 @@ if st.sidebar.button("Gravar Conhecimento 💾"):
     if n_p and n_r:
         with open('conhecimento.txt', 'a', encoding='utf-8') as f:
             f.write(f"\n{n_p.strip()};{n_r.strip()};{n_c}")
-        st.cache_data.clear() # Limpa o cache para atualizar o cérebro
+        st.cache_data.clear() 
         st.sidebar.success("Aprendido!")
         st.rerun()
     else:
@@ -97,12 +97,14 @@ if st.sidebar.button("Gravar Conhecimento 💾"):
 st.sidebar.markdown("---")
 st.sidebar.info("Dica: Use interrogação (?) se quiser que ele reconheça a pergunta com clareza.")
 
-# --- FUNÇÃO CURIOSIDADE (ADICIONADA) ---
+# --- FUNÇÃO CURIOSIDADE CORRIGIDA ---
 st.sidebar.subheader("💡 Curiosidade")
 if st.sidebar.button("Gerar Curiosidade Aleatória"):
     if df_bolt is not None and not df_bolt.empty:
         curiosidade = df_bolt.sample(1).iloc[0]
-        st.sidebar.markdown(f"**{curiosidade['categoria']}**")
+        st.sidebar.markdown(f"<span style='color: #ffd700; font-size: 0.8em; text-transform: uppercase; font-weight: bold;'>{curiosidade['categoria']}</span>", unsafe_allow_html=True)
+        # Aqui acrescentei o nome do conceito (pergunta) em negrito antes da resposta
+        st.sidebar.markdown(f"### {curiosidade['pergunta']}") 
         st.sidebar.write(curiosidade['resposta'])
     else:
         st.sidebar.warning("Ainda não tenho conhecimentos para gerar curiosidades.")
@@ -153,5 +155,7 @@ if st.button("Consultar 💸") and pergunta:
         
     st.session_state.messages.append({"role": "bolt", "content": txt})
     st.rerun()
+
+st.markdown("<div class='footer'>By Miguel Generoso | O Bolt pode fornecer informações imprecisas.</div>", unsafe_allow_html=True)
 
 st.markdown("<div class='footer'>By Miguel Generoso | O Bolt pode fornecer informações imprecisas.</div>", unsafe_allow_html=True)
