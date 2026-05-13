@@ -107,4 +107,212 @@ O que é Escassez?;É um gatilho de vendas que mostra que o produto é limitado,
 Como funciona o Machine Learning no Spotify?;O Spotify usa algoritmos que analisam o que você ouve para criar playlists personalizadas e recomendar músicas que você provavelmente vai gostar.;tecnologia
 O que é o processamento de linguagem natural no ChatGPT?;É a tecnologia que permite que a IA entenda o contexto das suas frases e responda de forma quase humana, como eu estou fazendo aqui.;tecnologia
 Como a IA ajuda na medicina?;A IA consegue analisar exames de imagem com precisão altíssima para detectar doenças precocemente e ajudar médicos em cirurgias complexas.;tecnologia
-O que é um Drone autônomo?;São veículos aéreos que usam sensores
+O que é um Drone autônomo?;São veículos aéreos que usam sensoresO que é Pitch?;É uma apresentação rápida usada para convencer investidores, clientes ou parceiros sobre uma ideia.;empreendedorismo
+O que é Benchmarking?;É estudar empresas de sucesso para aprender estratégias e melhorar seu próprio negócio.;empreendedorismo
+O que é Ticket Médio?;É o valor médio gasto por cliente em cada compra realizada.;empreendedorismo
+O que é Receita Recorrente?;É o faturamento previsível que entra todo mês através de assinaturas ou contratos.;empreendedorismo
+O que é Employer Branding?;É a reputação de uma empresa como lugar desejado para trabalhar.;empreendedorismo
+O que é Bootstrapping?;É criar e crescer uma empresa usando o próprio dinheiro, sem investidores externos.;empreendedorismo
+O que é Spin-off?;É uma nova empresa criada a partir de uma divisão de outra companhia.;empreendedorismo
+O que é KPI?;São indicadores usados para medir o desempenho de uma empresa ou equipe.;empreendedorismo
+O que é Canvas de Negócios?;É um quadro estratégico usado para visualizar como um negócio funciona.;empreendedorismo
+O que é Receita Bruta?;É o total faturado antes de descontar custos, taxas e impostos.;empreendedorismo
+O que é Lifetime Value?;É o valor total que um cliente gera durante todo o relacionamento com a empresa.;empreendedorismo
+O que é Retenção de Clientes?;É a capacidade de manter consumidores comprando continuamente da marca.;empreendedorismo
+O que é Benchmark?;É uma referência usada para comparar desempenho e qualidade.;empreendedorismo
+O que é Capital Semente?;É o primeiro investimento usado para tirar uma ideia do papel.;empreendedorismo
+O que é Venture Capital?;São fundos que investem em startups com alto potencial de crescimento.;empreendedorismo
+O que é Receita Passiva?;É o dinheiro que continua entrando mesmo sem trabalho constante.;empreendedorismo
+O que é Market Share?;É a participação que uma empresa possui dentro do mercado.;empreendedorismo
+O que é Employer Experience?;É a experiência vivida pelos funcionários dentro da empresa.;empreendedorismo
+O que é Plano de Negócios?;É o documento que organiza metas, estratégias e projeções financeiras.;empreendedorismo
+O que é Monetização?;É transformar um produto, conteúdo ou serviço em fonte de renda.;empreendedorismo
+O que é White Label?;É um produto fabricado por uma empresa e vendido com a marca de outra.;empreendedorismo
+O que é Rebranding?;É a mudança estratégica da identidade de uma marca.;empreendedorismo
+O que é Coworking?;É um espaço compartilhado usado por profissionais e startups.;empreendedorismo
+O que é Employer Retention?;É a capacidade de manter talentos dentro da empresa.;empreendedorismo
+O que é Funil de Conversão?;É a jornada que transforma visitantes em clientes.;empreendedorismo
+O que é Receita Escalável?;É uma receita que cresce sem exigir aumento proporcional de custos.;empreendedorismo
+O que é Networking Estratégico?;É criar conexões profissionais com objetivos claros.;empreendedorismo
+O que é Cultura Organizacional?;É o conjunto de valores e comportamentos de uma empresa.;empreendedorismo
+O que é Ticket Alto?;É um produto ou serviço vendido por valores elevados.;empreendedorismo
+O que é Mentoria?;É o acompanhamento de alguém experiente para acelerar aprendizado.;empreendedorismo
+O que é Copy?;É o texto criado para persuadir alguém a agir.;empreendedorismo
+O que é Landing Page?;É uma página focada em converter visitantes em leads ou compradores.;empreendedorismo
+O que é Lead?;É uma pessoa que demonstrou interesse no seu produto.;empreendedorismo
+O que é Lead Qualificado?;É um potencial cliente com maior chance de comprar.;empreendedorismo
+O que é Prospecção?;É a busca ativa por novos clientes.;empreendedorismo
+O que é Funil Invertido?;É quando a marca gera tanta demanda que os clientes procuram a empresa.;empreendedorismo
+O que é Business Intelligence?;É a análise de dados para melhorar decisões empresariais.;empreendedorismo
+O que é Employer Advocacy?;É quando funcionários promovem espontaneamente a marca.;empreendedorismo
+O que é Gamificação?;É o uso de elementos de jogos em processos e negócios.;empreendedorismo
+O que é Time-to-Market?;É o tempo necessário para lançar um produto no mercado.;empreendedorismo
+O que é NPS?;É uma métrica que mede o quanto clientes recomendariam sua empresa.;empreendedorismo
+O que é Receita Previsível?;É um faturamento que pode ser estimado com alta precisão.;empreendedorismo
+O que é Employer Value Proposition?;É o conjunto de benefícios oferecidos aos funcionários.;empreendedorismo
+O que é Automação de Marketing?;É usar softwares para automatizar campanhas e contatos.;empreendedorismo
+O que é Segmentação de Mercado?;É dividir clientes em grupos com características semelhantes.;empreendedorismo
+O que é Co-branding?;É a parceria entre duas marcas em um produto ou campanha.;empreendedorismo
+O que é Plano de Expansão?;É a estratégia para aumentar operações e alcançar novos mercados.;empreendedorismo
+O que é Proposta de Valor?;É o motivo principal pelo qual o cliente escolhe sua marca.;empreendedorismo
+O que é Validação de Ideia?;É testar se pessoas realmente comprariam sua solução.;empreendedorismo
+O que é Networking Digital?;É criar conexões profissionais através da internet.;empreendedorismo
+O que é Latência?;É o tempo que um sistema leva para responder a uma ação.;tecnologia
+O que é Banco de Dados?;É um sistema usado para armazenar e organizar informações.;tecnologia
+O que é Data Center?;É uma estrutura cheia de servidores que mantém sistemas funcionando.;tecnologia
+O que é Firmware?;É o software interno que controla dispositivos eletrônicos.;tecnologia
+O que é Bug?;É um erro no código de um software.;tecnologia
+O que é Deploy?;É o processo de publicar um sistema ou aplicativo.;tecnologia
+O que é Interface?;É a parte visual usada para interagir com um sistema.;tecnologia
+O que é UX Design?;É o design focado em melhorar a experiência do usuário.;tecnologia
+O que é UI Design?;É o design visual de telas, botões e interfaces digitais.;tecnologia
+O que é DNS?;É o sistema que transforma nomes de sites em endereços numéricos.;tecnologia
+O que é VPN?;É uma conexão segura que protege sua navegação online.;tecnologia
+O que é Cache?;É um armazenamento temporário que acelera carregamentos.;tecnologia
+O que é Hardware?;É a parte física de computadores e dispositivos.;tecnologia
+O que é Software?;É o conjunto de programas executados em um dispositivo.;tecnologia
+O que é Código Fonte?;É o conjunto de instruções escritas por programadores.;tecnologia
+O que é Linguagem de Programação?;É a linguagem usada para criar softwares e sistemas.;tecnologia
+O que é Python?;É uma linguagem popular por ser simples e poderosa.;tecnologia
+O que é JavaScript?;É a linguagem que dá interatividade aos sites.;tecnologia
+O que é HTML?;É a estrutura básica das páginas da internet.;tecnologia
+O que é CSS?;É a tecnologia usada para estilizar páginas web.;tecnologia
+O que é Git?;É um sistema de controle de versões para programadores.;tecnologia
+O que é GitHub?;É uma plataforma para armazenar e compartilhar códigos.;tecnologia
+O que é OpenAI?;É uma empresa focada em inteligência artificial avançada.;tecnologia
+O que é Rede Neural?;É um modelo computacional inspirado no cérebro humano.;tecnologia
+O que é Reconhecimento Facial?;É a identificação automática de rostos por IA.;tecnologia
+O que é Chatbot?;É um robô programado para conversar com usuários.;tecnologia
+O que é Assistente Virtual?;É uma IA criada para ajudar em tarefas e perguntas.;tecnologia
+O que é Data Mining?;É a descoberta de padrões escondidos em grandes dados.;tecnologia
+O que é Streaming?;É a transmissão de conteúdo online em tempo real.;tecnologia
+O que é GPU?;É o processador especializado em gráficos e IA.;tecnologia
+O que é CPU?;É o cérebro principal de um computador.;tecnologia
+O que é SSD?;É um armazenamento rápido usado em computadores modernos.;tecnologia
+O que é Backup?;É uma cópia de segurança de arquivos importantes.;tecnologia
+O que é Malware?;É um software criado para causar danos digitais.;tecnologia
+O que é Phishing?;É um golpe digital usado para roubar informações.;tecnologia
+O que é Firewall?;É uma barreira de proteção contra ataques virtuais.;tecnologia
+O que é Data Science?;É a ciência de analisar dados para gerar insights.;tecnologia
+O que é Automação Industrial?;É o uso de máquinas inteligentes em fábricas.;tecnologia
+O que é Robótica?;É a criação de máquinas capazes de executar tarefas.;tecnologia
+O que é Sensor Inteligente?;É um dispositivo que coleta e transmite dados automaticamente.;tecnologia
+O que é Pixel?;É a menor unidade visual de uma tela digital.;tecnologia
+O que é Streaming em Nuvem?;É executar jogos e programas pela internet.;tecnologia
+O que é Token Digital?;É um ativo virtual usado em sistemas blockchain.;tecnologia
+O que é Mineração de Criptomoedas?;É o processo de validar transações digitais.;tecnologia
+O que é Stablecoin?;É uma criptomoeda criada para manter valor estável.;tecnologia
+O que é Wallet Digital?;É a carteira usada para armazenar criptomoedas.;tecnologia
+O que é QR Code?;É um código escaneável usado para transmitir informações.;tecnologia
+O que é Streaming de Dados?;É o envio contínuo de informações em tempo real.;tecnologia
+O que é CDN?;É uma rede que acelera carregamento de sites globalmente.;tecnologia
+O que é Hyperautomation?;É a automação avançada usando IA e softwares integrados.;tecnologia
+O que é Reserva de Emergência?;É um dinheiro guardado para imprevistos financeiros.;investimentos
+O que é Risco de Mercado?;É a chance de perdas por oscilações econômicas.;investimentos
+O que é Rendimento Real?;É o lucro descontando os efeitos da inflação.;investimentos
+O que é Ação Ordinária?;É uma ação que dá direito a voto na empresa.;investimentos
+O que é Ação Preferencial?;É uma ação com prioridade no recebimento de dividendos.;investimentos
+O que é Volatilidade?;É a intensidade das oscilações de preço de um ativo.;investimentos
+O que é Rentabilidade?;É o retorno financeiro gerado por um investimento.;investimentos
+O que é Fundo Multimercado?;É um fundo que investe em diferentes tipos de ativos.;investimentos
+O que é Renda Mensal Passiva?;É o dinheiro recebido regularmente
+O que é Juros?;Juros são o valor pago pelo uso de dinheiro emprestado ou ganho em investimentos.;investimentos
+O que é Inteligência Artificial?;É a tecnologia que faz máquinas aprenderem e tomarem decisões parecidas com humanos.;tecnologia
+O que é Lucro?;É o dinheiro que sobra depois de pagar todos os custos.;empreendedorismo
+O que é Investimento?;É aplicar dinheiro hoje esperando ganhar mais no futuro.;investimentos
+O que é Empresa?;É uma organização criada para vender produtos ou serviços.;empreendedorismo
+O que é Startup?;É uma empresa inovadora criada para crescer rápido.;empreendedorismo
+O que é Aplicativo?;É um programa criado para celular, computador ou tablet.;tecnologia
+O que é Internet?;É a rede mundial que conecta computadores e celulares.;tecnologia
+O que é Ação?;É uma pequena parte de uma empresa vendida na bolsa.;investimentos
+O que é Bolsa de Valores?;É o mercado onde ações e investimentos são negociados.;investimentos
+O que é Cliente?;É a pessoa que compra um produto ou serviço.;empreendedorismo
+O que é Marketing?;É o conjunto de estratégias usadas para atrair clientes.;empreendedorismo
+O que é Dinheiro Digital?;É o dinheiro usado virtualmente em cartões e aplicativos.;tecnologia
+O que é Criptomoeda?;É uma moeda digital protegida por tecnologia criptográfica.;investimentos
+O que é Bitcoin?;É a criptomoeda mais famosa do mundo.;investimentos
+O que é Senha?;É uma combinação secreta usada para proteger contas.;tecnologia
+O que é Hacker?;É alguém que entende profundamente sistemas de computador.;tecnologia
+O que é Ciberataque?;É uma tentativa de invadir ou prejudicar sistemas digitais.;tecnologia
+O que é Economia?;É o estudo de dinheiro, produção e consumo.;investimentos
+O que é Inflação?;É o aumento dos preços ao longo do tempo.;investimentos
+O que é Salário?;É o pagamento recebido pelo trabalho.;empreendedorismo
+O que é Economia Digital?;É a economia baseada em internet e tecnologia.;tecnologia
+O que é Banco Digital?;É um banco que funciona principalmente online.;tecnologia
+O que é PIX?;É o sistema brasileiro de pagamentos instantâneos.;tecnologia
+O que é Empréstimo?;É dinheiro recebido com obrigação de devolução futura.;investimentos
+O que é Dívida?;É o valor que alguém precisa pagar a outra pessoa ou empresa.;investimentos
+O que é Receita?;É o dinheiro recebido pelas vendas.;empreendedorismo
+O que é Despesa?;É todo gasto feito por uma empresa ou pessoa.;empreendedorismo
+O que é Economia Compartilhada?;É dividir serviços e recursos entre várias pessoas.;empreendedorismo
+O que é E-commerce?;É uma loja que vende pela internet.;empreendedorismo
+O que é Site?;É uma página ou conjunto de páginas na internet.;tecnologia
+O que é Navegador?;É o programa usado para acessar sites.;tecnologia
+O que é Google?;É a maior ferramenta de buscas da internet.;tecnologia
+O que é Rede Social?;É uma plataforma online de interação entre pessoas.;tecnologia
+O que é Influenciador Digital?;É alguém que influencia pessoas através da internet.;empreendedorismo
+O que é Conteúdo Viral?;É um conteúdo que se espalha rapidamente online.;tecnologia
+O que é Streaming?;É assistir ou ouvir conteúdo sem baixar o arquivo.;tecnologia
+O que é Algoritmo?;É uma sequência lógica usada para resolver problemas.;tecnologia
+O que é Programação?;É escrever códigos para criar sistemas e aplicativos.;tecnologia
+O que é Código?;É o conjunto de comandos escritos por programadores.;tecnologia
+O que é Robô Virtual?;É um sistema automatizado que executa tarefas sozinho.;tecnologia
+O que é Automação?;É usar tecnologia para reduzir trabalho manual.;tecnologia
+O que é Chatbot?;É um robô programado para conversar com usuários.;tecnologia
+O que é Dados?;São informações usadas para análises e decisões.;tecnologia
+O que é Nuvem Digital?;É o armazenamento de arquivos pela internet.;tecnologia
+O que é Backup?;É uma cópia de segurança de arquivos.;tecnologia
+O que é Memória RAM?;É a memória usada temporariamente pelo computador.;tecnologia
+O que é Processador?;É a peça responsável pelos cálculos do computador.;tecnologia
+O que é Smartphone?;É um celular com funções avançadas de computador.;tecnologia
+O que é Wi‑Fi?;É a conexão sem fio com a internet.;tecnologia
+O que é 5G?;É uma internet móvel muito mais rápida.;tecnologia
+O que é Download?;É baixar arquivos da internet para o dispositivo.;tecnologia
+O que é Upload?;É enviar arquivos do dispositivo para a internet.;tecnologia
+O que é Link?;É um endereço que leva para outro conteúdo online.;tecnologia
+O que é QR Code?;É um código escaneável usado para acessar informações.;tecnologia
+O que é Software?;É um programa executado em computadores e celulares.;tecnologia
+O que é Hardware?;É a parte física dos dispositivos eletrônicos.;tecnologia
+O que é Bug?;É um erro dentro de um software.;tecnologia
+O que é Atualização?;É uma melhoria feita em sistemas e aplicativos.;tecnologia
+O que é Segurança Digital?;É a proteção contra golpes e invasões online.;tecnologia
+O que é Investidor?;É a pessoa que aplica dinheiro esperando retorno.;investimentos
+O que é Risco?;É a possibilidade de perder dinheiro em investimentos.;investimentos
+O que é Rentabilidade?;É o lucro gerado por um investimento.;investimentos
+O que é Renda Fixa?;É um investimento mais previsível e seguro.;investimentos
+O que é Renda Variável?;É um investimento com oscilações de preço.;investimentos
+O que é Dividendos?;É parte do lucro distribuída aos acionistas.;investimentos
+O que é Corretora?;É a empresa usada para investir na bolsa.;investimentos
+O que é Tesouro Direto?;É o investimento em títulos do governo.;investimentos
+O que é CDB?;É um investimento em que você empresta dinheiro ao banco.;investimentos
+O que é Selic?;É a taxa básica de juros do Brasil.;investimentos
+O que é Reserva de Emergência?;É um dinheiro guardado para imprevistos.;investimentos
+O que é Juros Compostos?;É ganhar juros sobre juros acumulados.;investimentos
+O que é Carteira de Investimentos?;É o conjunto dos seus investimentos.;investimentos
+O que é Diversificação?;É investir em diferentes ativos para reduzir riscos.;investimentos
+O que é Liquidez?;É a facilidade de transformar um ativo em dinheiro.;investimentos
+O que é Patrimônio?;É o conjunto de bens e investimentos de alguém.;investimentos
+O que é Meta Financeira?;É um objetivo relacionado ao dinheiro.;investimentos
+O que é Independência Financeira?;É viver sem depender de salário fixo.;investimentos
+O que é Empreendedor?;É quem cria ou administra negócios.;empreendedorismo
+O que é Liderança?;É a capacidade de guiar pessoas e equipes.;empreendedorismo
+O que é Networking?;É criar conexões profissionais importantes.;empreendedorismo
+O que é Produtividade?;É fazer mais em menos tempo.;empreendedorismo
+O que é Meta?;É um objetivo que alguém deseja alcançar.;empreendedorismo
+O que é Planejamento?;É organizar ações antes de executá‑las.;empreendedorismo
+O que é Estratégia?;É o plano usado para alcançar resultados.;empreendedorismo
+O que é Concorrência?;É a disputa entre empresas pelo mesmo público.;empreendedorismo
+O que é Marca?;É a identidade visual e reputação de uma empresa.;empreendedorismo
+O que é Logotipo?;É o símbolo visual de uma marca.;empreendedorismo
+O que é Público-Alvo?;É o grupo de pessoas que a empresa deseja atingir.;empreendedorismo
+O que é Venda?;É a troca de produtos ou serviços por dinheiro.;empreendedorismo
+O que é Atendimento ao Cliente?;É o suporte dado antes e depois da compra.;empreendedorismo
+O que é Franquia?;É o direito de usar uma marca já conhecida.;empreendedorismo
+O que é Home Office?;É trabalhar remotamente de casa.;empreendedorismo
+O que é Freelancer?;É o profissional que trabalha de forma independente.;empreendedorismo
+O que é Currículo?;É o documento com experiências e habilidades.;empreendedorismo
+O que é Entrevista de Emprego?;É a conversa usada para selecionar candidatos.;empreendedorismo
+O que é Feedback?;É a opinião dada para melhorar desempenho.;empreendedorismo
+O que é Inovação?;É criar algo novo ou melhorar o que já existe.;empreendedorismo
+O que é Tecnologia?;É o uso de conhecimento para criar soluções.;tecnologia
+O que é Futuro Digital?;É a tendência de cada vez mais atividades acontecerem online.;tecnologia
